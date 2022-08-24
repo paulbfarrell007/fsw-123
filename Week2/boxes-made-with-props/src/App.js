@@ -4,14 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      < Card 
+< Card
       title="Title 1" 
       subtitle="Sub Title 1" 
       description="Hello World 1 !"
       bgcolor="#ED2938"
       width="200px"    
     />
-     < Card 
+< Card 
       title="Title 2" 
       subtitle="Sub Title 2" 
       description="Hello World 2 !"
@@ -19,7 +19,7 @@ function App() {
       width="200px"    
     />
 
-    < Card 
+< Card 
       title="Title 3" 
       subtitle="Sub Title 3" 
       description="Hello World 3 !"
@@ -38,5 +38,4 @@ function App() {
     
   );
 }
-
 export default App;
